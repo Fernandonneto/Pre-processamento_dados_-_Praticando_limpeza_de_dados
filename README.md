@@ -1,4 +1,4 @@
-# 🧠 Pré-modelagem: Praticando limpeza de dados
+# 🧠 Pré-processamento de dados: Praticando limpeza de dados
 
 Este projeto faz parte da atividade de pré-modelagem de dados do curso de Cientista de Dados da EBAC e tem como objetivo aplicar técnicas de análise exploratória de dados (EDA) e visualização gráfica utilizando Python e bibliotecas como Pandas, Matplotlib e Seaborn.
 
